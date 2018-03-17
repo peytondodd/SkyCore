@@ -1,0 +1,312 @@
+shops:
+  blocks:
+    items:
+      grass:
+        quantity: 64
+        buy price: 50.0
+        sell price: 5.0
+        data: 0
+      dirt:
+        quantity: 64
+        buy price: 30.0
+        sell price: 3.0
+        data: 0
+      gravel:
+        quantity: 64
+        buy price: 50.0
+        sell price: 5.0
+        data: 0
+      cobblestone:
+        quantity: 64
+        buy price: 30.0
+        sell price: 3.0
+        data: 0
+      mossy_cobblestone:
+        quantity: 64
+        buy price: 50.0
+        sell price: 5.0
+        data: 0
+      stone:
+        quantity: 64
+        buy price: 50.0
+        sell price: 5.0
+        data: 0
+      stone:
+        quantity: 64
+        buy price: 30.0
+        sell price: 8.0
+        data: 1
+      stone:
+        quantity: 64
+        buy price: 30.0
+        sell price: 3.0
+        data: 3
+      stone:
+        quantity: 64
+        buy price: 30.0
+        sell price: 3.0
+        data: 5
+      log:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 1
+      log:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 2
+      log:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 3
+      log_2:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 0
+      log_2:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 1
+      snow_block:
+        quantity: 16
+        buy price: 20
+        sell price: 2
+        data: 0
+      ice:
+        quantity: 16
+        buy price: 30
+        sell price: 3
+        data: 0
+      packed_ice:
+        quantity: 16
+        buy price: 30
+        sell price: 3
+        data: 0
+      sponge:
+        quantity: 8
+        buy price: 100
+        sell price: 10
+        data: 0
+      sand:
+        quantity: 64
+        buy price: 30
+        sell price: 3
+        data: 0
+      sandstone:
+        quantity: 32
+        buy price: 30
+        sell price: 3
+        data: 0
+      sand:
+        quantity: 64
+        buy price: 30
+        sell price: 3
+        data: 1
+      red_sandstone:
+        quantity: 32
+        buy price: 30
+        sell price: 3
+        data: 0
+      glass:
+        quantity: 16
+        buy price: 20
+        sell price: 4
+        data: 0
+      clay:
+        quantity: 32
+        buy price: 40
+        sell price: 4
+        data: 0
+      hard_clay:
+        quantity: 32
+        buy price: 50
+        sell price: 5
+        data: 0
+      brick:
+        quantity: 64
+        buy price: 70
+        sell price: 7
+        data: 0
+      obsidian:
+        quantity: 16
+        buy price: 30
+        sell price: 3
+        data: 0
+      netherrack:
+        quantity: 64
+        buy price: 30
+        sell price: 3
+        data: 0
+      glowstone:
+        quantity: 64
+        buy price: 50
+        sell price: 5
+        data: 0
+      soul_sand:
+        quantity: 64
+        buy price: 30
+        sell price: 3
+        data: 0
+      nether_brick:
+        quantity: 64
+        buy price: 50
+        sell price: 5
+        data: 0
+      ender_stone:
+        quantity: 64
+        buy price: 30
+        sell price: 3
+        data: 0
+      prismarine:
+        quantity: 64
+        buy price: 50
+        sell price: 5
+        data: 0
+      bookshelf:
+        quantity: 16
+        buy price: 30
+        sell price: 6
+        data: 0
+      enchantment_table:
+        quantity: 1
+        buy price: 100
+        sell price: 20
+        data: 0
+  food:
+    items:
+      melon:
+        quantity: 10
+        buy price: 30
+        sell price: 6
+        data: 0
+      apple:
+        quantity: 1
+        buy price: 20
+        sell price: 4
+        data: 0
+      golden_apple:
+        quantity: 1
+        buy price: 100
+        sell price: 20
+        data: 0
+      golden_apple:
+        quantity: 1
+        buy price: 1000
+        sell price: 200
+        data: 1
+      carrot_item:
+        quantity: 10
+        buy price: 30
+        sell price: 6
+        data: 0
+      pumpkin_pie:
+        quantity: 1
+        buy price: 20
+        sell price: 4
+        data: 0
+      bread:
+        quantity: 1
+        buy price: 25
+        sell price: 5
+        data: 0
+       cooked_chicken:
+         quantity: 1
+         buy price: 25
+         sell price: 5
+         data: 0
+      baked_potato:
+        quantity: 10
+        buy price: 30
+        sell price: 6
+        data: 0
+      mushroom_soup:
+        quantity: 1
+        buy price: 20
+        sell price: 4
+        data: 0
+      cooked_fish:
+        quantity: 1
+        buy price: 20
+        sell price: 4
+        data: 0
+      cooked_rabbit:
+        quantity: 1
+        buy price: 20
+        sell price: 4
+        data: 0
+      rabbit_stew:
+        quantity: 1
+        buy price: 40
+        sell price: 8
+        data: 0
+      grilled_pork:
+        quantity: 1
+        buy price: 30
+        sell price: 6
+        data: 0
+      cooked_beef:
+        quantity: 1
+        buy price: 30
+        sell price: 6
+        data: 0
+      cooked_mutton:
+        quantity: 1
+        buy price: 25
+        sell price: 5
+        data: 0
+      cookie:
+        quantity: 10
+        buy price: 30
+        sell price: 6
+        data: 0
+      cake:
+        quantity: 1
+        buy price: 50
+        sell price: 10
+        data: 0
+  minerals:
+    items:
+      coal:
+        quantity: 32
+        buy price: 100
+        sell price: 10
+        data: 0
+      redstone:
+        quantity: 64
+        buy price: 20
+        sell price: 4
+        data: 0
+      ink_sack:
+        quantity: 64
+        buy price: 4
+        sell price: 4
+        data: 0
+      iron_ingot:
+        quantity: 8
+        buy price: 300
+        sell price: 3
+        data: 0
+      gold_ingot:
+        quantity: 8
+        buy price: 300
+        sell price: 30
+        data: 0
+      diamond:
+        quantity: 8
+        buy price: 1000
+        sell price: 100
+        data: 0
+      emerald:
+        quantity: 8
+        buy price: 200
+        sell price: 40
+        data: 0
+      quartz:
+        quantity: 64
+        buy price: 20
+        sell price: 4
+        data: 0

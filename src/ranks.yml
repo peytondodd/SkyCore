@@ -1,0 +1,36 @@
+ranks:
+  Member:
+    default: true
+    prefix: '&7'
+    chatcolor: '&7'
+    permissions:
+      - perm.1
+      - perm.2
+      - perm.3
+  Builder:
+    prefix: '&b&lBUILDER &b'
+    chatcolor: '&f'
+    children:
+      - Member
+  Helper:
+    prefix: '&a&lHELPER &a'
+    chatcolor: '&e'
+    children:
+      - Builder
+  Moderator:
+    prefix: '&2&lMOD &2'
+    chatcolor: '&e'
+    children:
+      - Helper
+  Admin:
+    prefix: '&6&lADMIN &6'
+    chatcolor: '&e'
+    permissions:
+      - skycore.rank
+    children:
+      - Moderator
+  Owner:
+    prefix: '&c&lOWNER &c'
+    chatcolor: '&c'
+    children:
+      - Admin

@@ -1,0 +1,41 @@
+My Todo List:
+  Essentials Plugin:
+    /spectate
+    /condence
+    /tpa
+    /tpaccept
+    /tpdeny
+    /tptoggle
+    /tp
+  Skyblock Plugin:
+    Ore Generator
+    Add island schematics
+    Upgrades System:
+      Size:
+      Homes:
+      Members:
+      Generators:
+    Current Commands:
+      /island create
+      /island go
+      /island invite
+      /island kick
+      /island accept
+      /island deny
+      /island lock
+      /island coop
+      /island uncoop
+      /island ban
+      /island unban
+      /island makeleader
+      /island delete
+      /island expel //test
+      /island setspawn
+      /island warp
+      /island team //test
+      /island teamchat
+    Todo:
+      /island reset // delete the island and promps the user with the gui island selector
+      /island value // value of the users item in hand * amount
+      /island top // top 10 islands worth
+      /island worth // islands worth

@@ -1,0 +1,5 @@
+kits:
+  starter:
+    shown: false
+    items:
+      diamond_sword:

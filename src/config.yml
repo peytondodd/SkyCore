@@ -1,0 +1,17 @@
+messages:
+  welcome message:
+    - "&f-&e✦&f-&f&l»   &6&lSky&e&lTreasure   &f&l«&f-&6✦&f-"
+    - ""
+    - "   &7Welcome to &eSkyTreasures&e!"
+    - ""
+    - "&f-&e✦&f-&f&l»   &6&lSky&e&lTreasure   &f&l«&f-&6✦&f-"
+server motd: "               &f&m-&e&l⯁&f&m-&7»   &6&lSkyTreasure   &8&f&l«&f&m-&e&l⯁&f&m-&r                    &f&l► &7Currently Under Maintenance! &f&l◄"
+swears:
+  - fuck
+  - fack
+  - fck
+  - fk
+blacklisted item names:
+  - '&c&lGenerator'
+announcements:
+  - '&cThis is a test!'

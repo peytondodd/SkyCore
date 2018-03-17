@@ -1,0 +1,4 @@
+name: SkyCore
+version: 1.0
+main: me.simonm34.skycore.Core
+depend: [WorldEdit, FastAsyncWorldEdit]
